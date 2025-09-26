@@ -41,8 +41,8 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 <!-- Proposed Solution -->
-<h2>Proposed Solution</h2>
-<h3>Remove These Lines</h3>
+## Proposed Solution
+
 <ul>
   <li>Multilingual AI-powered mobile app + chatbot delivering real-time, location-specific agricultural advisory.</li>
   <li>Key features:
@@ -61,8 +61,8 @@ Agriculture, FoodTech & Rural Development
 </ul>
 
 <!-- Technical Approach -->
-<h2>Technical Approach</h2>
-<h3>Remove These Lines</h3>
+## Technical Approach
+
 <ul>
   <li>Technologies:
     <ul>
@@ -89,6 +89,7 @@ Agriculture, FoodTech & Rural Development
 
 <!-- Feasibility and Viability -->
 ## Feasibility and Viability
+
 <ul>
   <li>Feasibility:
     <ul>
@@ -123,6 +124,7 @@ Agriculture, FoodTech & Rural Development
 
 <!-- Impact and Benefits -->
 ## Impact and Benefits
+
 <ul>
   <li>Social benefits:
     <ul>
